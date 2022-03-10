@@ -25,3 +25,34 @@
 # if  status > 2:
 #       print("error")
 
+#5
+# num = int(input("enter number between 1 - 1000 : "))
+# start = 1
+# end = 1000
+# mid = (start + end) // 2
+# print("start", start,"mid",mid,"end",end,"number",num)
+# while num != mid:
+#      mid = (start + end)//2
+#      if num>mid:
+#         start = mid
+#         print("start",start,"end" ,end,"numbers",num)
+#      else:
+#          end = mid
+#          print("start",start,"end",end,"numbers",num)
+# print("found",num)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
